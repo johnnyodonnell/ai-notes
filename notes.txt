@@ -1,0 +1,5 @@
+
+* "Claude Sonnet 4.5 is the best model in the world for building agents."
+    - From: https://claude.com/blog/context-management
+    - Wonder if that's still true or if Opus is now better
+
