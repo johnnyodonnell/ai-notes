@@ -1,4 +1,17 @@
 
+* What about something like ClawdBot but for Blue?
+    - It reaches out to you over Teams for questions and stuff
+    - Feels like idea 12 from here: https://wiki.blueorigin.com/spaces/GENAI/pages/2141990909/February+Cross-Functional+Hackathon
+
+* GenAI Hackathon: https://wiki.blueorigin.com/spaces/GENAI/pages/2141990909/February+Cross-Functional+Hackathon
+    - Ideas that address oncall
+        - 8, 9
+    - Idea 10 is an interesting idea. Non-software engineers looking to
+            automate manual work
+        - Looks like they are based in CA
+    - Ideas that could use code-agent-service
+        - 12, 
+
 * "Claude Sonnet 4.5 is the best model in the world for building agents."
     - From: https://claude.com/blog/context-management
     - Wonder if that's still true or if Opus is now better
