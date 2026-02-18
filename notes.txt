@@ -5,12 +5,25 @@
 
 * GenAI Hackathon: https://wiki.blueorigin.com/spaces/GENAI/pages/2141990909/February+Cross-Functional+Hackathon
     - Ideas that address oncall
-        - 8, 9
+        - 8, 9, 74
     - Idea 10 is an interesting idea. Non-software engineers looking to
             automate manual work
         - Looks like they are based in CA
     - Ideas that could use code-agent-service
-        - 12, 
+        - 12, 36, 67
+    - Idea 23 is interesting
+        - Scraping the web for COTS prices
+    - Ideas that could use the workflow service
+        - 10, 30, 32, 35, 37, 38, 39, 42, 43, 65, 85
+        - Also all ideas that address oncall
+        - Maybe: 46, 47, 78
+    - Ideas that automate software engineering
+        - 12, 67, 
+    - Idea 80 is interesting
+        - Reusing agent definitions across codebases for a given team
+    - Idea 86 is interesting
+        - Feed video data of manufacturing floor to AI and
+                have it make process improvements
 
 * "Claude Sonnet 4.5 is the best model in the world for building agents."
     - From: https://claude.com/blog/context-management
