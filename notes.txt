@@ -18,7 +18,9 @@
         - Also all ideas that address oncall
         - Maybe: 46, 47, 78
     - Ideas that automate software engineering
-        - 12, 67, 
+        - 12, 67
+        - At one point there was a suggestion for Open SWE,
+            but it looks like it got removed
     - Idea 80 is interesting
         - Reusing agent definitions across codebases for a given team
     - Idea 86 is interesting
